@@ -4,10 +4,8 @@
 ## Presentación Personal
 
 ### Datos Personales
-- Mi nombre es:
-- Vivo en
-
+- Hola a todos soy Nahuel Solano, estoy en mi cuarto cuatrimestre en la tecnicatura en programacion.
 
 ### Otra Información
-- Este es mi primer contacto con github
-- Tengo un gato que se llama Timoteol
+- En simultaneo a la cursada estoy ahaciendo un curso de programacion, en donde tambien enseñan un poco sobre git y github
+- Tengo 2 gatas
