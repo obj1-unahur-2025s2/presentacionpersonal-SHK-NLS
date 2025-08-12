@@ -8,4 +8,4 @@
 
 ### Otra Información
 - En simultaneo a la cursada estoy ahaciendo un curso de programacion, en donde tambien enseñan un poco sobre git y github
-- Tengo 2 gatas
+- Tengo 2 gatas, que se llaman Marisol y Paris
